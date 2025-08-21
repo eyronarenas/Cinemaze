@@ -1,5 +1,4 @@
-import 'dart:convert';
-import 'package:flutter/foundation.dart';
+
 import '../models/media.dart';
 import '../models/paged_response.dart';
 import '../tmdb_api.dart';
