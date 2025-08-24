@@ -2,7 +2,7 @@
 
 Cinemaze is a Flutter app that uses The Movie Database (TMDB) API.
 
-## Quick setup
+## Quick setup.
 
 1. Create a `.env` file in the project root (already present in this workspace: [.env](.env)) containing your TMDB keys and endpoints. Example keys in this repo:
    - [`TMDB_API_KEY`](.env)
