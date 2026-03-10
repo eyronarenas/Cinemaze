@@ -1,6 +1,6 @@
 # Cinemaze
 
-Cinemaze is a Flutter app that uses The Movie Database (TMDB) API
+Cinemaze is a Flutter app that uses The Movie Database (TMDB) API.
 
 ## Quick setup.
 
